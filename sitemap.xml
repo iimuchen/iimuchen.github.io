@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://iimuchen.github.io/</loc>
+    <lastmod>2022-02-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://iimuchen.github.io/categories/2022/</loc>
     <lastmod>2022-02-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +21,6 @@
     <lastmod>2022-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iimuchen.github.io/categories/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2022-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iimuchen.github.io/</loc>
     <lastmod>2022-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iimuchen.github.io/posts/%E7%9B%B8%E4%BC%BC%E6%80%A7/</loc>
